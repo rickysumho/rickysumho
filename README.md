@@ -2,7 +2,11 @@
 
 
 <p> I'm Ricky. I'm studying Computer Science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="13"/> <b> University of Michigan--Ann Arbor.</b></p>
-<h3>Things I code with</h3>
+<h3>Languages I currently know</h3>
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
+</p>
 
 <!--
 **rickysumho/rickysumho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
