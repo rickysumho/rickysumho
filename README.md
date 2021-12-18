@@ -1,8 +1,8 @@
 <h1><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f63a.png" width="30"/> hey! welcome to my page!</h1>
 
 
-<p> i'm ricky. i'm studying computer science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> University of Michigan--Ann Arbor.</b></p>
-<p>i love anything and everything tech. always looking to expand my horizon in <b>software engineering</b>, <b>machine learning</b>, and <b><img src="https://vector.me/browse/329069/sugar_cube_icon" width="15"/>blockchain</b>.</p>
+<p> i'm ricky. i'm studying computer science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan--ann arbor.</b></p>
+<p>i love anything and everything tech. always looking to expand my horizon in <b>💻 software engineering</b>, <b>🤖 machine learning</b>, and <b><img src="https://www.freeiconspng.com/img/47035" width="15"/> blockchain</b>.</p>
 
 <h3>Skills I currently know</h3>
 
