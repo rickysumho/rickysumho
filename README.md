@@ -2,6 +2,8 @@
 
 
 <p> I'm Ricky. I'm studying Computer Science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="13"/> <b> University of Michigan--Ann Arbor.</b></p>
+</br><p>I love anything and everything tech. Always looking to expand my horizon in software engineering, machine learning, and blockchain.</p>
+
 <h3>Skills I currently know</h3>
 
 <p>
