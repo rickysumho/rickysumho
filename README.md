@@ -1,7 +1,7 @@
-<h1><img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/56794/grinning-cat-with-smiling-eyes-emoji-clipart-md.png" width="30"/> Hey! Welcome to my page.</h1>
+<h1><img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/56794/grinning-cat-with-smiling-eyes-emoji-clipart-md.png" width="30"/> Hey! Welcome to my page!</h1>
 
 
-<p> I'm Ricky, Computer Science student and Aspiring Software Engineer at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="13"/> <b>University of Michigan--Ann Arbor.</b></p>
+<p> I'm Ricky. I'm studying Computer Science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="13"/> <b> University of Michigan--Ann Arbor.</b></p>
 <h3>Things I code with</h3>
 
 <!--
