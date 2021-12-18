@@ -4,6 +4,8 @@
 <p> i'm ricky. i'm studying computer science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan (ann arbor)</b>. i'm located in <b>🏙️ chicago, il</b>.</p>
 <p>i love anything and everything tech. always looking to expand my horizon in <b>💻 software engineering</b>, <b>🤖 machine learning</b>, and <b>🟥 blockchain</b>.</p>
 
+<p><b>looking for summer internships!</b></P>
+
 <h3>my current skills</h3>
 
 <p>
@@ -16,17 +18,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-<!--
-**rickysumho/rickysumho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>connect with me</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><a href="https://github.com/rickysumho" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rickysumho/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
