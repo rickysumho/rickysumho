@@ -1,7 +1,7 @@
-<h1><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f63a.png" width="25"/> hey! welcome to my page!</h1>
+<h1><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f63a.png" width="25"/> hey! welcome to my github profile!</h1>
 
 
-<p> i'm ricky. i'm studying computer science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan--ann arbor.</b> i'm located in <b>chicago, il</b>.</p>
+<p> i'm ricky. i'm studying computer science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan.</b> i'm located in <b>🏡 chicago, il</b>.</p>
 <p>i love anything and everything tech. always looking to expand my horizon in <b>💻 software engineering</b>, <b>🤖 machine learning</b>, and <b>🟥 blockchain</b>.</p>
 
 <h3>my current skills</h3>
