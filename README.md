@@ -5,7 +5,7 @@
 <h3>Languages I currently know</h3>
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
 <!--
