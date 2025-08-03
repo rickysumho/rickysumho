@@ -1,7 +1,7 @@
 <h1><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f63a.png" width="25"/> hey! welcome to my github profile!</h1>
 
 
-<p> i'm ricky. i recently graduated from <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan (ann arbor)</b> with a bachelor's in computer science. i'm located in <b>🏙️ chicago, il</b>.</p>
+<p> i'm ricky. i recently graduated from <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan (ann arbor)</b> with a bachelor's in computer science.
 <p>i currently work as a software engineer @ linkedin. in my free time, i'm working on cool projects like document processing pipelines and learning new things.</p>
 
 <h3>previous notable work</h3>
