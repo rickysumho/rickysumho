@@ -4,7 +4,7 @@
 <p> i'm ricky. i recently graduated from <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan (ann arbor)</b> with a bachelor's in computer science. i'm located in <b>🏙️ chicago, il</b>.</p>
 <p>i currently work as a software engineer @ linkedin. in my free time, i'm working on cool projects like document processing pipelines and learning new things.</p>
 
-<h3>previous work</h3>
+<h3>previous notable work</h3>
   <li>account discovery + enrichment pipeline @ pursuit</li>
   <li>embedding + multi-agent classification workflows @ pursuit</li>
   <li>ml infra grpc migration @ linkedin</li>
