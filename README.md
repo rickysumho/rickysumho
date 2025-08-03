@@ -1,21 +1,16 @@
 <h1><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f63a.png" width="25"/> hey! welcome to my github profile!</h1>
 
 
-<p> i'm ricky. i'm studying computer science at the <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan (ann arbor)</b>. i'm located in <b>🏙️ chicago, il</b>.</p>
-<p>i love anything and everything tech.</p>
+<p> i'm ricky. i recently graduated from <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="15"/> <b> university of michigan (ann arbor)</b> with a bachelor's in computer science. i'm located in <b>🏙️ chicago, il</b>.</p>
+<p>i currently work as a software engineer @ linkedin. in my free time, i'm working on cool projects like document processing pipelines and learning new things.</p>
 
-<h3>my current skills</h3>
-
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-751c62?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-D9381E?style=flat-square&logo=matlab&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-</p>
+<h3>previous work</h3>
+  <li>account discovery + enrichment pipeline @ pursuit</li>
+  <li>embedding + multi-agent classification workflows @ pursuit</li>
+  <li>ml infra grpc migration @ linkedin</li>
+  <li>appgwc and cilium perf, compat, infra testing @ microsoft</li>
+  <li>ui + backend improvements for dealership chatbot team @ cars</li>
+  
 
 <h3>connect with me</b></h3>
 
